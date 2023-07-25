@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Snehadutta6295
-- 👀 I’m interested in code learning because i'm a beginner..
-- 🌱 I’m currently learning C++ and DSA...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sneha Dutta
+- 👀 I’m interested in learning new technologies.
+- 🌱 I’m currently learning React.JS.
+- 💞️ I’m looking to collaborate development projects.
 - 📫 How to reach me by sn.du.sneha@gmail.com...
 
 <!---
